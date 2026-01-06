@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eksamen.iml" filepath="$PROJECT_DIR$/.idea/Eksamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg1/Opg1.iml" filepath="$PROJECT_DIR$/Opg1/Opg1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg2/Opg2.iml" filepath="$PROJECT_DIR$/Opg2/Opg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg3/Opg3.iml" filepath="$PROJECT_DIR$/Opg3/Opg3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg4/Opg4.iml" filepath="$PROJECT_DIR$/Opg4/Opg4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg5/Opg5.iml" filepath="$PROJECT_DIR$/Opg5/Opg5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg6/Opg6.iml" filepath="$PROJECT_DIR$/Opg6/Opg6.iml" />
+    </modules>
+  </component>
+</project>
