@@ -1,3 +1,9 @@
-public class Episode implements Playable{
+public class Episode extends Season implements Playable{
+
+
+
+    public void play(){
+
+    }
 
 }
